@@ -10,7 +10,6 @@ NOTE. This is is a Single Page Application (SPA).
 
 ## Table of Contents 
 * [Installation](#installation)
-* [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
